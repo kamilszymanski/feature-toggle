@@ -1,1 +1,1 @@
-source code from the talk I gave at [Warsaw Java Users Group](http://warszawa.jug.pl/#/meeting/119)
+source code from the talk I gave at [Warsaw Java User Group](http://warszawa.jug.pl/#/meeting/119)

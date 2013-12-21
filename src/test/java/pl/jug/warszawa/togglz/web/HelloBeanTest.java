@@ -24,7 +24,7 @@ public class HelloBeanTest {
     public void wjugFullNameFeatureEnabled() {
         togglzRule.enable(FeatureToggle.WJUG_FULL_NAME);
 
-        assertEquals("Warsaw Java Users Group", helloBean.getName());
+        assertEquals("Warsaw Java User Group", helloBean.getName());
     }
 
 }

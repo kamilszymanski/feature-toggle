@@ -8,7 +8,7 @@ import static pl.jug.warszawa.togglz.features.FeatureToggle.WJUG_FULL_NAME;
 public class HelloBean {
 
     public String getName() {
-        return WJUG_FULL_NAME.isActive() ? "Warsaw Java Users Group" : "WJUG";
+        return WJUG_FULL_NAME.isActive() ? "Warsaw Java User Group" : "WJUG";
     }
 
 }
